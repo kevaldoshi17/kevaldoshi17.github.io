@@ -5,55 +5,114 @@
       value: Keval Doshi
     - name: Location
       value: Seattle, WA
-    - name: Focus
-      value: Video understanding, continual learning, anomaly detection
+    - name: Email
+      value: kdoshi1795@gmail.com
+    - name: Phone
+      value: (813) 735-8022
+    - name: Summary
+      value: Applied Scientist focused on video understanding, vision-language models, and content moderation.
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Electrical Engineering
-      institution: University of South Florida
-      year: 2024
+      institution: University of South Florida, Tampa, FL
+      year: 2018 - 2022
+      description:
+        - GPA: 4.0
+        - Advisor: Prof. Yasin Yilmaz
+    - title: M.Sc. in Electrical Engineering
+      institution: University of South Florida, Tampa, FL
+      year: 2017 - 2018
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Applied Scientist
-      institution: Amazon
-      year: 2024 - Present
+    - title: Applied Scientist II
+      institution: Amazon Prime Video, Seattle, WA
+      year: June 2022 - Present
       description:
-        - Video understanding, continual learning, and robust anomaly detection for production systems.
-    - title: Applied Scientist
-      institution: Amazon Science
-      year: 2022 - 2024
+        - Led SUPRA, an automated content moderation strategy, adopted in 11 countries.
+        - Built a vision-language model trained on 1.9M videos for the cinema domain.
+        - Reduced operational costs by 34% through cross-functional collaboration.
+    - title: Video Understanding Intern
+      institution: Nokia Bell Labs, Murray Hill, NJ
+      year: June 2021 - Aug 2021
       description:
-        - Published in CVPR/WACV on robust video anomaly detection.
-        - Built pipelines to make research reproducible, measurable, and deployable.
-    - title: Research Assistant
-      institution: University of South Florida
-      year: 2017 - 2024
+        - Built a scene-graph method to interpret object interactions in videos.
+        - Improved detection accuracy by 17% on limited-annotation datasets.
+    - title: Data Science Intern
+      institution: Alstom, Melbourne, FL
+      year: May 2019 - Aug 2019
       description:
-        - Continual learning and statistical anomaly detection for video surveillance.
-        - Authored peer-reviewed papers and competition-winning systems.
+        - Developed statistical models to determine train locations.
+        - Improved time-series classification accuracy with a weighted DTW algorithm.
+        - Submitted one patent application and two journal papers.
+    - title: Graduate Research Assistant
+      institution: University of South Florida, Tampa, FL
+      year: Aug 2017 - May 2022
+      description:
+        - Built modular, interpretable frameworks for video understanding and surveillance.
+        - Implemented sequential anomaly detection with lower detection delay.
 
-- title: Honors and Awards
+- title: Patents
+  type: time_table
+  contents:
+    - title: Method and system for railway vehicle location
+      year: 2022
+      description:
+        - US20220258781A1
+    - title: Online multivariate anomaly detection
+      year: Dec 2024
+      description:
+        - U.S. Patent No. 12,174,689
+    - title: Online multivariate anomaly detection and localization
+      year: Applied
+
+- title: Awards and Achievements
   type: time_table
   contents:
     - year: 2021
       items:
-        - CVPR Continual Learning Challenge – 1st place
-        - CVPR Outstanding Reviewer
+        - 1st Place, CVPR Continual Learning Challenge
     - year: 2020
       items:
-        - AI City Challenge – 2nd place
-    - year: 2019
+        - 1st Place, NIST Automated Streams Analysis for Public Safety
+        - 2nd Place, IEEE Big Data Cup Road Damage Detection
+        - 2nd Place, NVIDIA AI CITY Challenge (CVPR 2020)
+    - year: 2018
       items:
-        - NIST Automated Streams Analysis Challenge – Winner
+        - Hack for Good Award, JP Morgan at Hack-a-bull
+        - Best Hardware Hack, InOut hackathon, SVNIT India
+    - year: Additional
+      items:
+        - International Chess Rating
 
-- title: Research Interests
+- title: Reviewer Experience
   type: list
   contents:
-    - Video understanding and long-horizon representation learning
-    - Continual learning and adaptation under drift
-    - Robust anomaly detection (statistical + deep)
-    - Evaluation, reliability, and deployment trade-offs
+    - CVPR (2021-2025), WACV (2020-2024), ECCV/ICCV (2020-2023)
+    - IEEE TPAMI, IEEE IoT Journal, IEEE TNNLS, Pattern Recognition Letters
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - Python
+        - MATLAB
+    - title: Python Libraries
+      items:
+        - Pandas
+        - Matplotlib
+        - NumPy
+        - SciPy
+    - title: Tools
+      items:
+        - CUDA
+        - MongoDB
+        - Linux
+        - LaTeX
+    - title: Frameworks
+      items:
+        - PyTorch
