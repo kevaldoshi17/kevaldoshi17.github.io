@@ -1,0 +1,59 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Keval Doshi
+    - name: Location
+      value: Seattle, WA
+    - name: Focus
+      value: Video understanding, continual learning, anomaly detection
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Electrical Engineering
+      institution: University of South Florida
+      year: 2024
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Applied Scientist
+      institution: Amazon
+      year: 2024 - Present
+      description:
+        - Video understanding, continual learning, and robust anomaly detection for production systems.
+    - title: Applied Scientist
+      institution: Amazon Science
+      year: 2022 - 2024
+      description:
+        - Published in CVPR/WACV on robust video anomaly detection.
+        - Built pipelines to make research reproducible, measurable, and deployable.
+    - title: Research Assistant
+      institution: University of South Florida
+      year: 2017 - 2024
+      description:
+        - Continual learning and statistical anomaly detection for video surveillance.
+        - Authored peer-reviewed papers and competition-winning systems.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - CVPR Continual Learning Challenge – 1st place
+        - CVPR Outstanding Reviewer
+    - year: 2020
+      items:
+        - AI City Challenge – 2nd place
+    - year: 2019
+      items:
+        - NIST Automated Streams Analysis Challenge – Winner
+
+- title: Research Interests
+  type: list
+  contents:
+    - Video understanding and long-horizon representation learning
+    - Continual learning and adaptation under drift
+    - Robust anomaly detection (statistical + deep)
+    - Evaluation, reliability, and deployment trade-offs
