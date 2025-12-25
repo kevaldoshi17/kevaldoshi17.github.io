@@ -6,7 +6,7 @@ subtitle: Applied Scientist · Amazon
 
 profile:
   align: right
-  image: profile.jpg
+  image: keval_profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Seattle, WA</p>
