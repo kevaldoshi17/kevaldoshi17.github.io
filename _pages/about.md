@@ -27,12 +27,14 @@ Ph.D. in Electrical Engineering (University of South Florida). I care about meth
 production constraints.
 
 ## Research interests
+
 - Video understanding & long-horizon representation learning
 - Continual learning and adaptation under drift
 - Robust anomaly detection (statistical + deep)
 - Evaluation, reliability, and deployment trade-offs
 
 ## Awards
+
 - CVPR 2021 Continual Learning Challenge – 1st place
 - CVPR 2021 Outstanding Reviewer
 - NIST Automated Streams Analysis Challenge – Winner
