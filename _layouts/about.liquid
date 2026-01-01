@@ -56,12 +56,20 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
+    <!-- Awards -->
+    {% if page.awards and page.awards.size > 0 %}
+      <h2>awards</h2>
+      <ul>
+        {% for award in page.awards %}
+          <li>
+            {% if award.url %}
+              <a href="{{ award.url }}" rel="external nofollow noopener" target="_blank">{{ award.text }}</a>
+            {% else %}
+              {{ award.text }}
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
     {% endif %}
 
     <!-- Social -->

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Scientist II · Amazon Prime Video
+subtitle: Applied Scientist · Ring AI (Amazon)
 
 profile:
   align: right
@@ -11,13 +11,8 @@ profile:
   more_info: >
     <p>Seattle, WA</p>
     <p>Vision-language models · Video understanding</p>
-    <p><strong>Awards</strong></p>
-    <p>CVPR Continual Learning Challenge - 1st place (2021)</p>
-    <p>CVPR Outstanding Reviewer (2021)</p>
-    <p>NIST Automated Streams Analysis Challenge - Winner (2020)</p>
-    <p>AI City Challenge - 2nd place (2020)</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,20 +20,33 @@ announcements:
 
 latest_posts:
   enabled: false
+
+awards:
+  - text: Outstanding Dissertation Award (USF Graduate Studies), Nov 2023
+    url: https://www.usf.edu/graduate-studies/research/scholars-of-excellence/otd.aspx#:~:text=Thomas%2C%20Ph.D.-,Keval%20Doshi%2C%20Ph.D.,-Electrical%20Engineering
+  - text: 1st Place, CVPR 2021 Continual Learning Challenge (Reinforcement Learning Track)
+  - text: Outstanding Reviewer, CVPR 2021
+  - text: Winner, NIST Automated Streams Analysis for Public Safety (2020)
+  - text: 2nd Place, NVIDIA AI CITY Challenge (CVPR 2020)
 ---
 
-I am an Applied Scientist II at Amazon Prime Video, where I work on video understanding, vision-language models, and content moderation.
-I earned my Ph.D. in Electrical Engineering at the University of South Florida as part of the Secure & Intelligent Systems Lab, advised
-by Dr. Yasin Yilmaz. My research interests span computer vision, continual learning, and statistical anomaly detection. Previously, I
-completed an M.S. in Electrical Engineering from USF in 2018.
+Hello! I am an Applied Scientist at Amazon Ring AI (since July 2025), where I work on vision-language models (VLMs) and LLM-based
+multimodal reasoning for video understanding and object detection. Previously, I was an Applied Scientist II at Amazon Prime Video
+(June 2022 - June 2025).
+
+I earned my Ph.D. in Electrical Engineering at the University of South Florida in the Secure & Intelligent Systems Lab, working under
+the direction of my advisor, Dr. Yasin Yilmaz. During my Ph.D., my research interests included computer vision, continual learning, and
+statistical anomaly detection. Previously, I earned an M.S. in Electrical Engineering from USF in 2018.
 
 ## Research interests
 
-- Vision-language models (VLMs) and video understanding
-- Computer vision, continual learning, and statistical anomaly detection
+- Vision-language models (VLMs) and LLM-based multimodal reasoning
+- Video understanding and object detection
 
 ## Recent news
 
+- July 2025: Joined Amazon Ring AI as an Applied Scientist.
+- November 2023: Won the Outstanding Dissertation Award (USF Graduate Studies).
 - April 2022: Our paper "Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems" is accepted to CVPR 2022 - Art of Robustness Workshop!
 - February 2022: I will be joining Amazon Science as an Applied Scientist!
 - October 2021: Our paper "Rethinking Video Anomaly Detection - A Continual Learning Approach" is accepted to WACV 2022!

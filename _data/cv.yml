@@ -10,7 +10,7 @@
     - name: Phone
       value: (813) 735-8022
     - name: Summary
-      value: Applied Scientist focused on video understanding, vision-language models, and content moderation.
+      value: Applied Scientist focused on vision-language models (VLMs), LLM-based multimodal reasoning, and video understanding.
 
 - title: Education
   type: time_table
@@ -28,9 +28,15 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Applied Scientist
+      institution: Amazon Ring AI, Seattle, WA
+      year: July 2025 - Present
+      description:
+        - Object detection and video understanding for real-world video products.
+        - Vision-language models (VLMs) and LLM-based multimodal reasoning.
     - title: Applied Scientist II
       institution: Amazon Prime Video, Seattle, WA
-      year: June 2022 - Present
+      year: June 2022 - June 2025
       description:
         - Led SUPRA, an automated content moderation strategy, adopted in 11 countries.
         - Built a vision-language model trained on 1.9M videos for the cinema domain.
