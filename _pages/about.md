@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Scientist · Ring AI (Amazon)
+subtitle: Applied Scientist II · Amazon Prime Video
 
 profile:
   align: right
@@ -27,21 +27,23 @@ latest_posts:
   enabled: false
 ---
 
-I build vision-language systems for real-world video products at Amazon. I am currently an Applied Scientist at Ring AI, focused on
-object detection and VLMs for intelligent, multimodal experiences. Previously, I worked at AWS AI on conversational AI and Automatic
-Speech Recognition (ASR) models for large-scale customer applications.
-
-Before AWS, I earned my Ph.D. in Electrical and Computer Engineering at UC Santa Barbara, advised by Prof. Upamanyu Madhow. My research
-background sparked a long-term interest in deep learning, and I now apply that focus to LLM-augmented perception, multimodal reasoning,
-and video understanding.
+I am an Applied Scientist II at Amazon Prime Video, where I work on video understanding, vision-language models, and content moderation.
+I earned my Ph.D. in Electrical Engineering at the University of South Florida as part of the Secure & Intelligent Systems Lab, advised
+by Dr. Yasin Yilmaz. My research interests span computer vision, continual learning, and statistical anomaly detection. Previously, I
+completed an M.S. in Electrical Engineering from USF in 2018.
 
 ## Research interests
 
-- Vision-language models (VLMs) and multimodal reasoning
-- Video understanding, temporal grounding, and scene-level understanding
+- Vision-language models (VLMs) and video understanding
+- Computer vision, continual learning, and statistical anomaly detection
 
 ## Recent news
 
-- Jul 2025: Joined Amazon Ring AI.
-- Nov 2023: Outstanding Dissertation Award (USF Graduate Studies). [Link](https://www.usf.edu/graduate-studies/research/scholars-of-excellence/otd.aspx#:~:text=Thomas%2C%20Ph.D.-,Keval%20Doshi%2C%20Ph.D.,-Electrical%20Engineering)
-- Jun 2022: Joined Amazon Prime Video.
+- April 2022: Our paper "Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems" is accepted to CVPR 2022 - Art of Robustness Workshop!
+- February 2022: I will be joining Amazon Science as an Applied Scientist!
+- October 2021: Our paper "Rethinking Video Anomaly Detection - A Continual Learning Approach" is accepted to WACV 2022!
+- October 2021: Our paper "A Modular and Unified Framework for Detecting and Localizing Video Anomalies" is accepted to WACV 2022!
+- June 2021: First place in the CVPR 2021 Continual Learning Challenge - Reinforcement Learning Track!
+- May 2021: Recognized as an "Outstanding Reviewer" for CVPR 2021.
+- April 2021: Our paper "An Efficient Approach for Anomaly Detection in Traffic Videos" is accepted to CVPR 2021 - AI City Workshop!
+- Jan 2021: Incoming Summer Intern at Nokia Bell Labs!
