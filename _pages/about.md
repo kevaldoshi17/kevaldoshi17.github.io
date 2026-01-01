@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Scientist · Amazon
+subtitle: Applied Scientist · Ring AI (Amazon)
 
 profile:
   align: right
@@ -10,7 +10,12 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Seattle, WA</p>
-    <p>Video understanding · Continual learning</p>
+    <p>Vision-language models · Video understanding</p>
+    <p><strong>Awards</strong></p>
+    <p>CVPR Continual Learning Challenge - 1st place (2021)</p>
+    <p>CVPR Outstanding Reviewer (2021)</p>
+    <p>NIST Automated Streams Analysis Challenge - Winner (2020)</p>
+    <p>AI City Challenge - 2nd place (2020)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,20 +27,21 @@ latest_posts:
   enabled: false
 ---
 
-I work on video understanding, continual learning, and robust anomaly detection—bridging research and production for high-scale systems.
-Ph.D. in Electrical Engineering (University of South Florida). I care about methods that survive distribution shift, limited labels, and
-production constraints.
+I build vision-language systems for real-world video products at Amazon. I am currently an Applied Scientist at Ring AI, focused on
+object detection and VLMs for intelligent, multimodal experiences. Previously, I worked at AWS AI on conversational AI and Automatic
+Speech Recognition (ASR) models for large-scale customer applications.
+
+Before AWS, I earned my Ph.D. in Electrical and Computer Engineering at UC Santa Barbara, advised by Prof. Upamanyu Madhow. My research
+background sparked a long-term interest in deep learning, and I now apply that focus to LLM-augmented perception, multimodal reasoning,
+and video understanding.
 
 ## Research interests
 
-- Video understanding & long-horizon representation learning
-- Continual learning and adaptation under drift
-- Robust anomaly detection (statistical + deep)
-- Evaluation, reliability, and deployment trade-offs
+- Vision-language models (VLMs) and multimodal reasoning
+- Video understanding, temporal grounding, and scene-level understanding
 
-## Awards
+## Recent news
 
-- CVPR 2021 Continual Learning Challenge – 1st place
-- CVPR 2021 Outstanding Reviewer
-- NIST Automated Streams Analysis Challenge – Winner
-- AI City Challenge 2020 – 2nd place
+- Jul 2025: Joined Amazon Ring AI.
+- Nov 2023: Outstanding Dissertation Award (USF Graduate Studies). [Link](https://www.usf.edu/graduate-studies/research/scholars-of-excellence/otd.aspx#:~:text=Thomas%2C%20Ph.D.-,Keval%20Doshi%2C%20Ph.D.,-Electrical%20Engineering)
+- Jun 2022: Joined Amazon Prime Video.
