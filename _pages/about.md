@@ -30,7 +30,7 @@ awards:
   - text: 2nd Place, NVIDIA AI CITY Challenge (CVPR 2020)
 ---
 
-Hello! I am an Applied Scientist at Amazon Ring AI (since July 2025), where I work on vision-language models (VLMs) and LLM-based
+Hello! I am an Applied Scientist II at Amazon Ring AI (since July 2025), where I work on vision-language models (VLMs) and LLM-based
 multimodal reasoning for video understanding and object detection. Previously, I was an Applied Scientist II at Amazon Prime Video
 (June 2022 - June 2025).
 
@@ -45,13 +45,68 @@ statistical anomaly detection. Previously, I earned an M.S. in Electrical Engine
 
 ## Recent news
 
-- July 2025: Joined Amazon Ring AI as an Applied Scientist.
-- November 2023: Won the Outstanding Dissertation Award (USF Graduate Studies).
-- April 2022: Our paper "Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems" is accepted to CVPR 2022 - Art of Robustness Workshop!
-- February 2022: I will be joining Amazon Science as an Applied Scientist!
-- October 2021: Our paper "Rethinking Video Anomaly Detection - A Continual Learning Approach" is accepted to WACV 2022!
-- October 2021: Our paper "A Modular and Unified Framework for Detecting and Localizing Video Anomalies" is accepted to WACV 2022!
-- June 2021: First place in the CVPR 2021 Continual Learning Challenge - Reinforcement Learning Track!
-- May 2021: Recognized as an "Outstanding Reviewer" for CVPR 2021.
-- April 2021: Our paper "An Efficient Approach for Anomaly Detection in Traffic Videos" is accepted to CVPR 2021 - AI City Workshop!
-- Jan 2021: Incoming Summer Intern at Nokia Bell Labs!
+<div class="list-group">
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Jul 2025
+    </span>
+    <span>Joined Amazon Ring AI as an Applied Scientist II.</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Nov 2023
+    </span>
+    <span>Won the Outstanding Dissertation Award (USF Graduate Studies).</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Apr 2022
+    </span>
+    <span>
+      Our paper “Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems” is accepted to CVPR 2022 – Art of
+      Robustness Workshop.
+    </span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Feb 2022
+    </span>
+    <span>I will be joining Amazon Science as an Applied Scientist.</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Oct 2021
+    </span>
+    <span>Our paper “Rethinking Video Anomaly Detection – A Continual Learning Approach” is accepted to WACV 2022.</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Oct 2021
+    </span>
+    <span>Our paper “A Modular and Unified Framework for Detecting and Localizing Video Anomalies” is accepted to WACV 2022.</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Jun 2021
+    </span>
+    <span>First place in the CVPR 2021 Continual Learning Challenge – Reinforcement Learning Track.</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      May 2021
+    </span>
+    <span>Recognized as an “Outstanding Reviewer” for CVPR 2021.</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Apr 2021
+    </span>
+    <span>Our paper “An Efficient Approach for Anomaly Detection in Traffic Videos” is accepted to CVPR 2021 – AI City Workshop.</span>
+  </div>
+  <div class="list-group-item d-flex flex-column flex-sm-row">
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle mr-sm-3 mb-2 mb-sm-0" style="min-width: 92px">
+      Jan 2021
+    </span>
+    <span>Incoming Summer Intern at Nokia Bell Labs.</span>
+  </div>
+</div>
