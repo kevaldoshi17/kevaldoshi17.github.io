@@ -8,8 +8,6 @@ profile:
   align: right
   image: keval_profile.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Vision-language models · Video understanding</p>
 
 selected_papers: false
 social: true # includes social icons at the bottom of the page
