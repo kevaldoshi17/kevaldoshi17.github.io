@@ -10,7 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Seattle, WA</p>
-    <p>Vision-language models · Video understanding</p>
 
 selected_papers: false
 social: true # includes social icons at the bottom of the page
@@ -23,7 +22,6 @@ latest_posts:
 
 awards:
   - text: Outstanding Dissertation Award (USF Graduate Studies)
-    url: https://www.usf.edu/graduate-studies/research/scholars-of-excellence/otd.aspx#:~:text=Thomas%2C%20Ph.D.-,Keval%20Doshi%2C%20Ph.D.,-Electrical%20Engineering
   - text: 1st Place, CVPR 2021 Continual Learning Challenge (Reinforcement Learning Track)
   - text: Outstanding Reviewer, CVPR 2021
   - text: Winner, NIST Automated Streams Analysis for Public Safety (2020)
