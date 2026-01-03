@@ -34,11 +34,6 @@ Hello! I am an Applied Scientist II at Amazon Ring AI (since July 2025), where I
 multimodal reasoning for video understanding and object detection. Previously, I was an Applied Scientist II at Amazon Prime Video
 (June 2022 - June 2025).
 
-I earned my Ph.D. in Electrical Engineering at the University of South Florida in the Secure & Intelligent Systems Lab, working under
-the direction of my advisor, Dr. Yasin Yilmaz. During my Ph.D., my research interests included computer vision, continual learning, and
-statistical anomaly detection. Previously, I earned an M.S. in Electrical Engineering from USF in 2018.
-
-## Research interests
-
-- Vision-language models (VLMs) and LLM-based multimodal reasoning
-- Video understanding and object detection
+I earned my Ph.D. in Electrical Engineering at the University of South Florida in the [Secure & Intelligent Systems Lab](http://sis.eng.usf.edu/),
+working under the direction of my advisor, Dr. Yasin Yilmaz. During my Ph.D., my research interests included computer vision, continual learning,
+and statistical anomaly detection. Previously, I earned an M.S. in Electrical Engineering from USF in 2018.
