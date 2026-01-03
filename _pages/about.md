@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 
 awards:
-  - text: Outstanding Dissertation Award (USF Graduate Studies), Nov 2023
+  - text: Outstanding Dissertation Award (USF Graduate Studies)
     url: https://www.usf.edu/graduate-studies/research/scholars-of-excellence/otd.aspx#:~:text=Thomas%2C%20Ph.D.-,Keval%20Doshi%2C%20Ph.D.,-Electrical%20Engineering
   - text: 1st Place, CVPR 2021 Continual Learning Challenge (Reinforcement Learning Track)
   - text: Outstanding Reviewer, CVPR 2021

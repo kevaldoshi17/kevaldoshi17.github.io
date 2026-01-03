@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "A Modular and Unified Framework for Detecting and Localizing Video Anomalies" was accepted to WACV 2022.
+[A Modular and Unified Framework for Detecting and Localizing Video Anomalies](https://scholar.google.com/scholar?hl=en&q=A+Modular+and+Unified+Framework+for+Detecting+and+Localizing+Video+Anomalies+Keval+Doshi) was accepted to WACV 2022.

@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems" was accepted to CVPR 2022 - Art of Robustness Workshop.
+[Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems](https://scholar.google.com/scholar?hl=en&q=Adversarial+Machine+Learning+Attacks+Against+Video+Anomaly+Detection+Systems+Keval+Doshi) was accepted to CVPR 2022 - Art of Robustness Workshop.
