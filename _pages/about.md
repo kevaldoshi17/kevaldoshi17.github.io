@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Scientist · Ring AI (Amazon) — Seattle, WA
+subtitle: Senior Applied Scientist · Ring AI (Amazon) — Seattle, WA
 
 profile:
   align: right
@@ -19,6 +19,7 @@ latest_posts:
   enabled: false
 
 awards:
+  - text: Runner-up Best Paper Award, CV4Smalls Workshop @ CVPR 2026
   - text: Outstanding Dissertation Award (USF Graduate Studies)
   - text: 1st Place, CVPR 2021 Continual Learning Challenge (Reinforcement Learning Track)
   - text: Outstanding Reviewer, CVPR 2021
@@ -26,7 +27,7 @@ awards:
   - text: 2nd Place, NVIDIA AI CITY Challenge (CVPR 2020)
 ---
 
-Hello! I am an Applied Scientist II at Amazon Ring AI (since July 2025), where I work on vision-language models (VLMs) and LLM-based
+Hello! I am a Senior Applied Scientist at Amazon Ring AI (since July 2025), where I work on vision-language models (VLMs) and LLM-based
 multimodal reasoning for video understanding and object detection. Previously, I was an Applied Scientist II at Amazon Prime Video
 (June 2022 - June 2025).
 
